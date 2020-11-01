@@ -31,7 +31,7 @@ Scalability:
 4. Lambda function for processing these API's
 
 1. I have used paho eclipse client library for mqtt implementation .
-2. we have used open broker for topic management 
+2. I have used open broker for topic management 
 
 Publish : POST
 URL : http://localhost:8080/publish?city=oslo
