@@ -45,3 +45,7 @@ Response :
     "country": "NO",
     "id": 501
 }
+
+<img width="610" alt="Screenshot 2020-11-01 at 11 46 34 PM" src="https://user-images.githubusercontent.com/1383978/97810807-83676780-1c9c-11eb-9240-0c368adfa719.png">
+
+Temperature and other data will be updated based on city search from search bar.
