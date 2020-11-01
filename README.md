@@ -21,14 +21,14 @@ Containerise the application and deployed to Kubernetes cluster.
 CI/CD pipeline.
 
 Authentication/Authorisation : 
-TLS/SSL certificates implementation 
-Trust store/key store 
+1. TLS/SSL certificates implementation 
+2. Trust store/key store 
 
 Scalability:
-broker scalability :
-hosted/deploy in the cloud , scale multiple instance based on TPS.
-API gateway for publish/subscribe api for web client.
-Lambda function for processing these API's
+1. broker scalability :
+2. hosted/deploy in the cloud , scale multiple instance based on TPS.
+3. API gateway for publish/subscribe api for web client.
+4. Lambda function for processing these API's
 
 1. I have used paho eclipse client library for mqtt implementation .
 2. we have used open broker for topic management 
