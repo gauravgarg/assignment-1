@@ -30,8 +30,9 @@ Response :
 {
  Successfully Publised.
 }
+<img width="1100" alt="Screenshot 2020-11-01 at 11 36 01 PM" src="https://user-images.githubusercontent.com/1383978/97810893-1bfde780-1c9d-11eb-8a92-b721e12cd7ec.png">
 
-Publish : GET
+Subsciber : GET
 URL : http://localhost:8080/subscribe        
 Response :
 {
@@ -45,6 +46,7 @@ Response :
     "country": "NO",
     "id": 501
 }
+<img width="1095" alt="Screenshot 2020-11-01 at 11 52 44 PM" src="https://user-images.githubusercontent.com/1383978/97810936-62534680-1c9d-11eb-830d-7344d3651620.png">
 
 <img width="610" alt="Screenshot 2020-11-01 at 11 46 34 PM" src="https://user-images.githubusercontent.com/1383978/97810807-83676780-1c9c-11eb-9240-0c368adfa719.png">
 
