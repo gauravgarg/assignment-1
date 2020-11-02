@@ -60,3 +60,7 @@ Response :
 <img width="610" alt="Screenshot 2020-11-01 at 11 46 34 PM" src="https://user-images.githubusercontent.com/1383978/97810807-83676780-1c9c-11eb-9240-0c368adfa719.png">
 
 Temperature and other data will be updated based on city search from search bar.
+
+Arcitecture : 
+
+![WhatsApp Image 2020-11-02 at 9 00 28 PM](https://user-images.githubusercontent.com/1383978/97902969-60a08600-1d64-11eb-9c45-0ffa5d407d5b.jpeg)
